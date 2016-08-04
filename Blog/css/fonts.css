@@ -1,0 +1,11 @@
+/* font-family: "LucidaGrandeRegular"; */
+@font-face {
+    font-family: "LucidaGrandeRegular";
+    src: url("../fonts/LucidaGrandeRegular/LucidaGrandeRegular.ttf");
+}
+
+/* font-family: "HelveticaNeueCyr"; */
+@font-face {
+    font-family: "HelveticaNeueCyrLight";
+    src: url("../fonts/HelveticaNeueCyr/HelveticaNeueCyrLight.otf");
+}
